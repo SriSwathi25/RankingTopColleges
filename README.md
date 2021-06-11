@@ -9,3 +9,4 @@ These cleaned tweets are then processed for the assignment of sentiments to each
 Machine Learning on the dataset:-
 The dataset is retrieved,  and divided in the training and test data using the hold-out method (7:3). Various ML techniques namely KNN,SVM (with rbf kernel) , Naive bayes and xgboost are used and their accuracies are compared.
 # Ranking-Top-Colleges-Using-Twitter-Data
+# Ranking-Top-Colleges-Using-Twitter-Data
